@@ -1,0 +1,13 @@
+gym_pull
+gym_super_mario_bros
+nes_py
+opencv-python
+pillow-simd
+tensorflow
+tensorboard
+streamlit
+matplotlib
+numpy
+pandas
+requests
+fastapi
