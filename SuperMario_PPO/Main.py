@@ -196,5 +196,5 @@ def test(episodes, env_test):
 
 
 if __name__ == '__main__':
-    # train(False)
+    train(False)
     test(10,0)
